@@ -1,0 +1,57 @@
+/* start of features 4 */
+.features-4 {
+    font-family: 'Nunito', sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    background: #ffffff;
+    background-size: cover;
+    background-position: center;
+    overflow-x: hidden;
+    padding: 100px 0;
+    color: #141414;
+}
+
+.features-4 h2 {
+    font-size: 2.625rem;
+    font-weight: 300;
+    margin-top: 0.3em;
+    margin-bottom: 0.5em;
+}
+
+.features-4 h3 {
+    font-size: 1.125rem;
+    font-weight: 300;
+    line-height: 1.4;
+    margin-top: 0.3em;
+    margin-bottom: 2.5em;
+    opacity: 0.7;
+}
+
+.features-4 h4 {
+    font-size: 1.125rem;
+    margin-top: 0.6em;
+    margin-bottom: 1.2em;
+    font-weight: 700;
+}
+
+.features-4 p {
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 1.125rem;
+    font-weight: 300;
+    margin-top: 0.3em;
+    margin-bottom: 0.5em;
+    opacity: 0.7;
+}
+
+.features-4 .fa {
+    font-size: 2.5rem;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+}
+
+    @media (min-width: 768px) {
+        .features-4 h3 {
+            width: 80%;
+        }
+    }
+/* end of features 4 */
